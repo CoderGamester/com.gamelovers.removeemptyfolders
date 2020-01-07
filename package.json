@@ -3,6 +3,6 @@
   "displayName": "Remove Empty Folders",
   "version": "0.1.0",
   "unity": "2019.3",
-  "description": "Editor tool to help clean up the empty folders and it's meta files out of the Unity Project.\nIt can be enabled or disabled in Tools > Remove Empty Folders",
+  "description": "Editor tool to help clean up the empty folders and it's meta files out of the Unity Project.\nThe tool can be enabled or disabled in Tools > Remove Empty Folders",
   "type": "tool"
 }
